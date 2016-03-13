@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#60B835</color>
+    <color name="colorPrimaryDark">#60B835</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="tv_tab_nor">#BCBCBC</color>
+    <color name="tv_tab_pre">#58A640</color>
+    <color name="me_bg">#60B835</color>
+    <color name="me_list_bg">#D4D4D4</color>
+
+    <color name="red">#ff0000</color>
+    <color name="green">#00ff00</color>
+    <color name="blue">#0000ff</color>
+    <color name="yellow">#fadd03</color>
+    <color name="purple">#8705f1</color>
+    <color name="pink">#ef08aa</color>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="gray">#BCBCBC</color>
+    <color name="balck_view_bg">#ff22252a</color>
+</resources>
