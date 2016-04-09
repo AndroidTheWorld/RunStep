@@ -29,6 +29,7 @@ import ling.runstep.widget.QuickFragmentTabHost;
 @ContentView(R.layout.activity_main)
 public class MainActivity extends BaseActivity {
 //    public static String APPID = "15adf39506cccd67f4ae3a7ad27e1f16";
+private String my;
 
     private final String[] TITLES = {"运动", "发现", "消息", "我的"};
     private final String[] TAGS = {"sport", "find", "msg", "me"};
